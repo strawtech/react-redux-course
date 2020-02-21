@@ -24,8 +24,8 @@
 17 - Redux Dev Tools<br/>
 18 - Handling Froms with Redux Form<br/>
 19 - REST-Based React Apps<br/>
-20 - Using React Portals **- Current**<br/>
+20 - Using React Portals<br/>
 21 - Implementing Streaming Video<br/>
-22 - Replacing Redux with Context<br/>
+22 - Replacing Redux with Context **- Current**<br/>
 23 - Hooks with Functional Components<br/>
 24 - More Fun with Hooks<br/>
