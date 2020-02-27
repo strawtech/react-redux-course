@@ -26,6 +26,6 @@
 19 - REST-Based React Apps<br/>
 20 - Using React Portals<br/>
 21 - Implementing Streaming Video<br/>
-22 - Replacing Redux with Context **- Current**<br/>
+22 - Replacing Redux with Context<br/>
 23 - Hooks with Functional Components<br/>
 24 - More Fun with Hooks<br/>
